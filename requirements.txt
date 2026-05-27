@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+joblib
+python-docx
+matplotlib
+seaborn
+requests

@@ -1,0 +1,9 @@
+Model Name: Multinomial Naive Bayes
+Accuracy: 0.9793
+Precision: 0.9773
+Recall: 0.8658
+F1-Score: 0.9181
+True Negative (Ham classified as Ham): 960
+False Positive (Ham classified as Spam): 3
+False Negative (Spam classified as Ham): 20
+True Positive (Spam classified as Spam): 129
